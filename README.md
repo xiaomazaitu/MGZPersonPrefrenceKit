@@ -1,4 +1,5 @@
 # MGZPersonPrefrenceKit
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/xiaomazaitu/MGZPersonPrefrenceKit.svg?style=flat)](https://travis-ci.org/xiaomazaitu/MGZPersonPrefrenceKit)
 [![Version](https://img.shields.io/cocoapods/v/MGZPersonPrefrenceKit.svg?style=flat)](https://cocoapods.org/pods/MGZPersonPrefrenceKit)
@@ -27,3 +28,6 @@ xiaomazaitu, 18514529291@163.com
 ## License
 
 MGZPersonPrefrenceKit is available under the MIT license. See the LICENSE file for more info.
+=======
+组件化测试
+>>>>>>> b711b14e0a8b9b720dce5e4eaffeb4323e3898be
