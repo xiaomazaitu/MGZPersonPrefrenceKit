@@ -1,0 +1,16 @@
+PODS:
+  - MGZPersonPrefrenceKit (0.1.0)
+
+DEPENDENCIES:
+  - MGZPersonPrefrenceKit (from `../`)
+
+EXTERNAL SOURCES:
+  MGZPersonPrefrenceKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MGZPersonPrefrenceKit: 5d7e2b98c6d32cbf7ea856e25b9fb9591f16c8ce
+
+PODFILE CHECKSUM: 9ecd9da0e4500b53b79c752cc8ce287350b03cf3
+
+COCOAPODS: 1.7.5

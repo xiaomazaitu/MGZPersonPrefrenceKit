@@ -1,0 +1,22 @@
+{
+  "name": "MGZPersonPrefrenceKit",
+  "version": "0.1.0",
+  "summary": "A short description of MGZPersonPrefrenceKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaomazaitu/MGZPersonPrefrenceKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaomazaitu": "18514529291@163.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaomazaitu/MGZPersonPrefrenceKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MGZPersonPrefrenceKit/Classes/**/*"
+}
